@@ -134,7 +134,7 @@
             ],
             "properties": {
                 "osProfile": {
-                    "computerName": "[variables('virtualMachine1Name')]",
+                    "computerName": "[variables('virtualMachine2Name')]",
                     "adminUsername": "[parameters('adminUsername')]",
                     "adminPassword": "[parameters('adminPassword')]",
                     "windowsConfiguration": {
